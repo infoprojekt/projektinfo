@@ -1,4 +1,2 @@
-# projektinfo
-infoprojekt
-infoprojekt für info
-irgend ein spiel 
+﻿dies ist ein spiel 4 gewinnt
+
