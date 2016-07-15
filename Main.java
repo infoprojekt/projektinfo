@@ -1,4 +1,3 @@
-hallooo
 
 public class Main {
 
